@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://antonioalbanesedev.github.io///sitemap.xml
+Sitemap: https://antonioalbanesedev.github.io//sitemap.xml
